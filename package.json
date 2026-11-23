@@ -1,0 +1,9 @@
+{
+  "name": "diogenes-solana-rug-guard",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Zero-dependency Solana SPL rug-pull & freeze-authority pre-trade guard powered by Diogenes Gateway.",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}
