@@ -7,7 +7,7 @@
 A 35-line, zero-dependency pre-trade security gate that inspects any Solana SPL or Token-2022 mint address for active freeze/mint authorities and honeypot transfer taxes before your bot buys.
 
 ```bash
-# 1. Try free (2 live demos/day)
+# 1. Try free (3 live demos/day)
 node index.mjs EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v --demo
 
 # 2. Production (<0.1ms fast-path resolution with prepaid session key)
