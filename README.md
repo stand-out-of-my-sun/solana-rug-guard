@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Powered by Diogenes](https://img.shields.io/badge/Powered%20By-Diogenes%20Gateway-purple.svg)](https://diogenesgateway.com)
-[![Prepaid Keys](https://img.shields.io/badge/Prepaid%20Keys-%3C0.1ms%20Fast%20Path-orange.svg)](https://diogenesgateway.com#prepay-checkout-widget)
 
 A 35-line, zero-dependency pre-trade security gate that inspects any Solana SPL or Token-2022 mint address for active freeze/mint authorities and honeypot transfer taxes before your bot buys.
 
